@@ -1,0 +1,33 @@
+<map id="C:/project/Firmware/include/board_info.h" name="C:/project/Firmware/include/board_info.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1737,5,1878,47"/>
+<area shape="rect" id="node2" href="$bootloader_8c.html" title=" " alt="" coords="1555,95,1716,136"/>
+<area shape="rect" id="node3" href="$bootloader_2flash_8c.html" title=" " alt="" coords="1740,95,1875,136"/>
+<area shape="rect" id="node4" href="$radio_8h.html" title=" " alt="" coords="1899,95,2033,136"/>
+<area shape="rect" id="node5" href="$_a_e_s__defs_8h.html" title=" " alt="" coords="597,184,756,225"/>
+<area shape="rect" id="node8" href="$aes_8c.html" title=" " alt="" coords="372,385,507,426"/>
+<area shape="rect" id="node15" href="$at_8c.html" title=" " alt="" coords="780,184,915,225"/>
+<area shape="rect" id="node16" href="$crc_8c.html" title=" " alt="" coords="939,184,1073,225"/>
+<area shape="rect" id="node17" href="$radio_2flash_8c.html" title=" " alt="" coords="1097,184,1232,225"/>
+<area shape="rect" id="node18" href="$freq__hopping_8c.html" title=" " alt="" coords="1256,184,1399,225"/>
+<area shape="rect" id="node19" href="$golay_8c.html" title=" " alt="" coords="1423,184,1557,225"/>
+<area shape="rect" id="node20" href="$main_8c.html" title=" " alt="" coords="1581,184,1716,225"/>
+<area shape="rect" id="node21" href="$mavlink_8c.html" title=" " alt="" coords="1740,184,1875,225"/>
+<area shape="rect" id="node22" href="$packet_8c.html" title=" " alt="" coords="1899,184,2033,225"/>
+<area shape="rect" id="node23" href="$parameters_8c.html" title=" " alt="" coords="2057,184,2192,225"/>
+<area shape="rect" id="node24" href="$pins__user_8c.html" title=" " alt="" coords="2216,184,2351,225"/>
+<area shape="rect" id="node25" href="$printfl_8c.html" title=" " alt="" coords="2375,184,2509,225"/>
+<area shape="rect" id="node26" href="$radio__443x_8c.html" title=" " alt="" coords="2533,184,2668,225"/>
+<area shape="rect" id="node27" href="$rtc_8c.html" title=" " alt="" coords="2692,184,2827,225"/>
+<area shape="rect" id="node28" href="$serial_8h.html" title=" " alt="" coords="2851,184,2985,225"/>
+<area shape="rect" id="node30" href="$tdm_8c.html" title=" " alt="" coords="2956,281,3091,322"/>
+<area shape="rect" id="node31" href="$timer_8c.html" title=" " alt="" coords="3061,184,3196,225"/>
+<area shape="rect" id="node6" href="$_a_e_s___block_cipher_8c.html" title=" " alt="" coords="813,385,1017,426"/>
+<area shape="rect" id="node7" href="$_a_e_s___block_cipher_8h.html" title=" " alt="" coords="575,281,779,322"/>
+<area shape="rect" id="node9" href="$_c_b_c___encrypt_decrypt_8c.html" title=" " alt="" coords="1047,385,1271,426"/>
+<area shape="rect" id="node10" href="$_c_b_c___encrypt_decrypt_8h.html" title=" " alt="" coords="803,281,1027,322"/>
+<area shape="rect" id="node11" href="$_c_t_r___encrypt_decrypt_8c.html" title=" " alt="" coords="555,385,777,426"/>
+<area shape="rect" id="node12" href="$_c_t_r___encrypt_decrypt_8h.html" title=" " alt="" coords="328,281,551,322"/>
+<area shape="rect" id="node13" href="$_generate_decryption_key_8c.html" title=" " alt="" coords="5,377,209,433"/>
+<area shape="rect" id="node14" href="$_generate_decryption_key_8h.html" title=" " alt="" coords="100,273,304,329"/>
+<area shape="rect" id="node29" href="$serial_8c.html" title=" " alt="" coords="2797,281,2932,322"/>
+</map>

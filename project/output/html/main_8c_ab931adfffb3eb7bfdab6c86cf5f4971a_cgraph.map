@@ -1,0 +1,36 @@
+<map id="radio_init" name="radio_init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,524,80,551"/>
+<area shape="rect" id="node2" href="$parameters_8c.html#a6f7319353e0f5430069b501c51993f93" title="convenient routine to constrain parameter values" alt="" coords="363,321,437,348"/>
+<area shape="rect" id="node3" href="$freq__hopping_8c.html#ad7ceecfac9a0247e6bbe52338de5cd38" title=" " alt="" coords="165,103,235,129"/>
+<area shape="rect" id="node5" href="$freq__hopping_8c.html#a690108e210ace6e819fecf9e3a99e23c" title="replacement for srand() and rand()" alt="" coords="574,27,633,53"/>
+<area shape="rect" id="node8" href="$parameters_8c.html#a02fd421969b941fa855ecd8aa3453409" title=" " alt="" coords="562,448,645,475"/>
+<area shape="rect" id="node9" href="$freq__hopping_8c.html#ab393cd7105f8524a081c1841e27bc851" title=" " alt="" coords="571,153,636,180"/>
+<area shape="rect" id="node10" href="$main_8c.html#a17a79324820986e840f5655255469f70" title=" " alt="" coords="173,575,227,601"/>
+<area shape="rect" id="node14" href="$parameters_8c.html#ac88f2d32d01563a3a5cdd0ffe2bd5208" title=" " alt="" coords="159,321,241,348"/>
+<area shape="rect" id="node17" href="$radio__443x_8c.html#acba02cbe7b4ae9194d73200ab40a3f5f" title=" " alt="" coords="335,205,465,246"/>
+<area shape="rect" id="node18" href="$radio__443x_8c.html#ae3bd9460c132a1455c6dfe654ba6eeeb" title=" " alt="" coords="335,879,465,921"/>
+<area shape="rect" id="node20" href="$radio__443x_8c.html#a9711d23258f1bd8cf3c80dbd5481b138" title=" " alt="" coords="350,473,450,500"/>
+<area shape="rect" id="node21" href="$radio__443x_8c.html#ae37173339a3e7f517dea8599712f1e84" title=" " alt="" coords="145,803,255,829"/>
+<area shape="rect" id="node27" href="$radio__443x_8c.html#a931f37c91062cbe2e0eb08b72a4f29c8" title=" " alt="" coords="148,651,252,677"/>
+<area shape="rect" id="node29" href="$radio__443x_8c.html#ae357d775d6b5f356f84df63731204e9d" title=" " alt="" coords="137,904,263,931"/>
+<area shape="rect" id="node30" href="$radio__443x_8c.html#abea304f360395a057d217ac7d34e82bf" title=" " alt="" coords="131,1123,269,1149"/>
+<area shape="rect" id="node31" href="$radio__443x_8c.html#aa814e51d7fe40babf08db4f0cc824a4e" title=" " alt="" coords="128,955,272,981"/>
+<area shape="rect" id="node32" href="$rtc_8h.html#acf9024748b942a7ae375cf75951afa9c" title=" " alt="" coords="169,1005,231,1032"/>
+<area shape="rect" id="node33" href="$tdm_8c.html#a66c9d6cc5784d48e1928f501d1e1f52d" title=" " alt="" coords="166,423,234,449"/>
+<area shape="rect" id="node4" href="$freq__hopping_8c.html#afcd42b03ac5c9dadf199080987eb7243" title=" " alt="" coords="371,52,429,79"/>
+<area shape="rect" id="node6" href="$freq__hopping_8c.html#ac7b56430585e90fe2e2acefd5dee4b8e" title=" " alt="" coords="355,103,445,129"/>
+<area shape="rect" id="node7" href="$crc_8c.html#a2ce6fa6b8d7633c46c8cea8599c798cb" title=" " alt="" coords="576,103,631,129"/>
+<area shape="rect" id="node11" href="$timer_8c.html#a4bd4c9aa97f3fd5a48b7af4994afad99" title=" " alt="" coords="354,575,446,601"/>
+<area shape="rect" id="node12" href="$timer_8c.html#a4523c7d7a6e17dda0e9995be19fa398e" title=" " alt="" coords="552,575,655,601"/>
+<area shape="rect" id="node13" href="$timer_8c.html#aca21c47b7183002f9fc4cce07c69d8a9" title=" " alt="" coords="564,625,643,652"/>
+<area shape="rect" id="node15" href="$parameters_8c.html#ac055e914a402d0a569ab1df1e0c0d831" title=" " alt="" coords="350,271,450,297"/>
+<area shape="rect" id="node16" href="$serial_8c.html#aa0e4d3c8f6286cd77877e571f55ce4b2" title=" " alt="" coords="539,263,667,305"/>
+<area shape="rect" id="node19" href="$radio__443x_8c.html#a3575c3eb18b3291eb09fabcf767300bf" title=" " alt="" coords="554,971,653,997"/>
+<area shape="rect" id="node22" href="$radio__443x_8c.html#aa34aedfcf134087b835d85569ed7c4c5" title=" " alt="" coords="528,777,679,804"/>
+<area shape="rect" id="node24" href="$radio__443x_8c.html#a9037f06d4da461373fb1d448a84ffa93" title=" " alt="" coords="335,828,465,855"/>
+<area shape="rect" id="node25" href="$radio__443x_8c.html#ad38c5eb6fef122d6d71b69b06f493c11" title=" " alt="" coords="320,1097,480,1124"/>
+<area shape="rect" id="node23" href="$radio__443x_8c.html#ad4ea06234237630d02dbd750babdb5a6" title=" " alt="" coords="727,752,824,779"/>
+<area shape="rect" id="node26" href="$radio__443x_8c.html#aa06026783e7195f022587f7f2bf2f556" title=" " alt="" coords="556,1148,651,1175"/>
+<area shape="rect" id="node28" href="$radio__443x_8c.html#aa12f53af3c51913398fade86971584f7" title=" " alt="" coords="347,676,453,703"/>
+<area shape="rect" id="node34" href="$packet_8c.html#af056b41ac3355a5b09c24675b8de29b1" title=" " alt="" coords="325,423,475,449"/>
+</map>

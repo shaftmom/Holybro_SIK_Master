@@ -1,0 +1,25 @@
+var board__rf50_8h =
+[
+    [ "BOARD_ID", "board__rf50_8h.html#aebf99e3a4120f931ce1e4914ae60ea91", null ],
+    [ "BOARD_MAXTXPOWER", "board__rf50_8h.html#afb25a599b89e14ccfbbd9a1e61ffbda2", null ],
+    [ "BOARD_MINTXPOWER", "board__rf50_8h.html#aa572b66b2cfcd92e8bdf07104e774e94", null ],
+    [ "BOARD_NAME", "board__rf50_8h.html#a02581754b212d533d96cde56c8145c9b", null ],
+    [ "BUTTON_ACTIVE", "board__rf50_8h.html#af04e20a7e5b6153ffe850b26e1fe097a", null ],
+    [ "BUTTON_BOOTLOAD", "board__rf50_8h.html#af1fead7311c77847ca89a6e83984aee1", null ],
+    [ "ENABLE_RFM50_SWITCH", "board__rf50_8h.html#a0b6213a73f5741142637aa7e247124c9", null ],
+    [ "EZRADIOPRO_OSC_CAP_VALUE", "board__rf50_8h.html#a1c33611a63a3e25ff14fd29b140c463c", null ],
+    [ "HW_INIT", "board__rf50_8h.html#a3e78ec56649ff57dc70528e5233b0211", null ],
+    [ "LED_ACTIVITY", "board__rf50_8h.html#ac131986d96ac4145e7a4236a7d6d672a", null ],
+    [ "LED_BOOTLOADER", "board__rf50_8h.html#a07440e40a8c9be6bbdade8feb190e60c", null ],
+    [ "LED_OFF", "board__rf50_8h.html#a80700bb63bd56ebabbb4728aa433fd29", null ],
+    [ "LED_ON", "board__rf50_8h.html#af2e697ac60e05813d45ea2c9c9e79c25", null ],
+    [ "LED_RADIO", "board__rf50_8h.html#a68ce7ee96d58ce2f50b02f2dd8e54bbb", null ],
+    [ "SBIT", "board__rf50_8h.html#a091c9abe486086aaa031c58dd93c613e", null ],
+    [ "SBIT", "board__rf50_8h.html#abc75050d1b8ec3d4efdf98103bb7427e", null ],
+    [ "SBIT", "board__rf50_8h.html#a74e64d14a68dcdcf67bd54e3fca97a75", null ],
+    [ "SBIT", "board__rf50_8h.html#abc12191c323abfda633635262ed1fa23", null ],
+    [ "SBIT", "board__rf50_8h.html#aab21aee69531f1f0f1f72ba46d7e44d9", null ],
+    [ "SBIT", "board__rf50_8h.html#ab0f8d4e88aa3736f4e1d604ebd1cfafa", null ],
+    [ "SBIT", "board__rf50_8h.html#a0c8285a6dfc710bfd9367f0e43daf5f2", null ],
+    [ "SBIT", "board__rf50_8h.html#a9f208d7aacf0af665c75647e2c1f5f5c", null ]
+];

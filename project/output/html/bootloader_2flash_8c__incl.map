@@ -1,0 +1,13 @@
+<map id="C:/project/Firmware/bootloader/flash.c" name="C:/project/Firmware/bootloader/flash.c">
+<area shape="rect" id="node1" title=" " alt="" coords="295,5,429,47"/>
+<area shape="rect" id="node2" href="$compiler__defs_8h.html" title=" " alt="" coords="5,169,119,196"/>
+<area shape="rect" id="node4" href="$board__info_8h.html" title=" " alt="" coords="456,95,548,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="292,244,357,271"/>
+<area shape="rect" id="node6" href="$board_8h.html" title=" " alt="" coords="572,95,637,121"/>
+<area shape="rect" id="node7" href="$bootloader_2flash_8h.html" title=" " alt="" coords="372,95,432,121"/>
+<area shape="rect" id="node10" href="$util_8h.html" title=" " alt="" coords="297,95,347,121"/>
+<area shape="rect" id="node3" href="$cdt_8h.html" title=" " alt="" coords="126,244,177,271"/>
+<area shape="rect" id="node8" title=" " alt="" coords="362,169,437,196"/>
+<area shape="rect" id="node9" href="$flash__layout_8h.html" title=" " alt="" coords="512,169,615,196"/>
+<area shape="rect" id="node11" href="$bootloader_8h.html" title=" " alt="" coords="194,169,287,196"/>
+</map>

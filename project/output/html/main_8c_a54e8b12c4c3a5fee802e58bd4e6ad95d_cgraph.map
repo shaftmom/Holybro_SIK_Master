@@ -1,0 +1,8 @@
+<map id="hardware_init" name="hardware_init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,104,83"/>
+<area shape="rect" id="node2" href="$parameters_8c.html#a02fd421969b941fa855ecd8aa3453409" title=" " alt="" coords="152,5,235,32"/>
+<area shape="rect" id="node3" href="$serial_8c.html#a9284f5f1b90c4ff123a87fa973cd8259" title=" " alt="" coords="155,56,232,83"/>
+<area shape="rect" id="node6" href="$timer_8c.html#a7b8ab79df77b57475a5494f5f81c3bd9" title=" " alt="" coords="156,107,231,133"/>
+<area shape="rect" id="node4" href="$serial_8c.html#a7c3efc33c3b8d1f52821d3d2f5d1c604" title=" " alt="" coords="283,56,445,83"/>
+<area shape="rect" id="node5" href="$packet_8c.html#a86b8389413e297d21a4d35b028263d8d" title=" " alt="" coords="493,56,660,83"/>
+</map>

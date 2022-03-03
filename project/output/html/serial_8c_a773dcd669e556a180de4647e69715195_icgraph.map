@@ -1,0 +1,8 @@
+<map id="serial_write_space" name="serial_write_space">
+<area shape="rect" id="node1" title=" " alt="" coords="444,31,573,57"/>
+<area shape="rect" id="node2" href="$mavlink_8c.html#aa562f6716b8e6a09ca0a7c4755256757" title="send a MAVLink status report packet" alt="" coords="111,5,226,32"/>
+<area shape="rect" id="node4" href="$serial_8c.html#a1ddffe6e15173699ec1f010084f23410" title=" " alt="" coords="297,31,384,57"/>
+<area shape="rect" id="node5" href="$serial_8c.html#a39c419531a4ee385a6f8ccf429f0c294" title=" " alt="" coords="285,81,396,108"/>
+<area shape="rect" id="node3" href="$tdm_8c.html#ad455a2a1cb342bd8b5fc764d2fa8d852" title=" " alt="" coords="5,56,52,83"/>
+<area shape="rect" id="node6" href="$packet_8c.html#a3f931267a86786658b68a40ae0a5a795" title=" " alt="" coords="100,107,237,133"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="flash_erase_scratch" name="flash_erase_scratch">
+<area shape="rect" id="node1" title=" " alt="" coords="727,31,865,57"/>
+<area shape="rect" id="node2" href="$bootloader_8c.html#aff75edab47cbce6ef045848303898846" title=" " alt="" coords="592,5,675,32"/>
+<area shape="rect" id="node4" href="$parameters_8c.html#a716286cfc8dbc0bc93f392d77a513e53" title=" " alt="" coords="588,56,679,83"/>
+<area shape="rect" id="node3" href="$bootloader_8c.html#ab200c8324e403638f5e005b82ee09f35" title=" " alt="" coords="455,5,521,32"/>
+<area shape="rect" id="node5" href="$at_8c.html#a7bc6c8d59590d26ec9e279a9944dbcee" title=" " alt="" coords="436,56,540,83"/>
+<area shape="rect" id="node6" href="$at_8c.html#a57bbd7488dd36489f932139ca5a51ae5" title=" " alt="" coords="291,56,388,83"/>
+<area shape="rect" id="node7" href="$tdm_8c.html#ad455a2a1cb342bd8b5fc764d2fa8d852" title=" " alt="" coords="5,56,52,83"/>
+<area shape="rect" id="node8" href="$tdm_8c.html#a93e0fe632acf3cdaf634c346f5d08e8a" title=" " alt="" coords="100,81,243,108"/>
+</map>

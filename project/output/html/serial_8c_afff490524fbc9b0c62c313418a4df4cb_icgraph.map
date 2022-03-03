@@ -1,0 +1,9 @@
+<map id="serial_read_available" name="serial_read_available">
+<area shape="rect" id="node1" title=" " alt="" coords="593,81,735,108"/>
+<area shape="rect" id="node2" href="$packet_8c.html#aa52c04a13909a5ac46a33334c7837c97" title=" " alt="" coords="267,56,371,83"/>
+<area shape="rect" id="node3" href="$packet_8c.html#a5e5219aba6ea3e2119aaee25de0d2af6" title=" " alt="" coords="100,107,219,133"/>
+<area shape="rect" id="node5" href="$serial_8c.html#a1634a29ea09a27d168ded910e235cc8b" title=" " alt="" coords="427,5,537,32"/>
+<area shape="rect" id="node6" href="$serial_8c.html#a6b96a34b7fa6c977575305902fb3dde1" title=" " alt="" coords="419,157,545,184"/>
+<area shape="rect" id="node4" href="$tdm_8c.html#ad455a2a1cb342bd8b5fc764d2fa8d852" title=" " alt="" coords="5,132,52,159"/>
+<area shape="rect" id="node7" href="$mavlink_8c.html#aa562f6716b8e6a09ca0a7c4755256757" title="send a MAVLink status report packet" alt="" coords="102,157,217,184"/>
+</map>
